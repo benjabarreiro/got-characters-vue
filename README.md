@@ -1,6 +1,6 @@
 # got-houses-vuejs
 
-Simple project where when you click in a button, a random character of Game of Thrones will appear a replace the previous one.
+Simple project where you can find information about the main houses of Game of Thrones universe.
 
 ## Project setup
 ```
